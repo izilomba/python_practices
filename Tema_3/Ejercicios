@@ -1,0 +1,10 @@
+nota = 6
+
+if nota >= 9:
+    resultado = "Sobresaliente"
+elif nota >= 7:
+    resultado = "Notable"
+elif nota >= 5:
+    resultado = "Aprobado"
+else:
+    resultado = "Suspenso"
